@@ -2,7 +2,8 @@
 
 Простое десктопное приложение для Windows с тёмным интерфейсом для скачивания видео по ссылке. Работает поверх [yt-dlp](https://github.com/yt-dlp/yt-dlp) и [FFmpeg](https://ffmpeg.org/), интерфейс построен на [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).
 
-<!-- Добавьте скриншот: ![Скриншот](screenshots/screenshot.png) -->
+<img width="849" height="579" alt="image" src="https://github.com/user-attachments/assets/e0714892-8007-4ed5-a90b-620d539d5a5c" />
+
 
 ## Возможности
 
