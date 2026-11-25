@@ -38,11 +38,11 @@ Pillow
 
 ```bash
 git clone https://github.com/<kirito17717>/<VideoDownloader>.git
-cd <ваш-репозиторий>
+cd <VideoDownloader>
 
 pip install customtkinter requests pillow
 
-python main.py
+python downloader.py
 ```
 
 При первом запуске внизу окна отобразится индикатор загрузки `yt-dlp` и `FFmpeg`. Пока компоненты не готовы, кнопка **«Скачать»** неактивна. Загрузка FFmpeg может занять некоторое время, это происходит один раз.
