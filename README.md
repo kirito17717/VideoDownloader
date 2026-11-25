@@ -37,7 +37,7 @@ Pillow
 ## Установка и запуск из исходников
 
 ```bash
-git clone https://github.com/<ваш-аккаунт>/<ваш-репозиторий>.git
+git clone https://github.com/<kirito17717>/<VideoDownloader>.git
 cd <ваш-репозиторий>
 
 pip install customtkinter requests pillow
